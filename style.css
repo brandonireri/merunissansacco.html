@@ -1,0 +1,31 @@
+aside,header,footer,main,nav,section {display: Block;}
+
+
+html,body,h1,h2,h3,ul,li,a,p,
+aside,header,footer,main,nav,section {
+     padding:0;
+     margin:0; }
+
+
+     {background: color  repeat attachment background-position;}
+      body {background-image: url("Images/Open\ road.jpg"); background-attachment: fixed ;background-repeat: no-repeat;background-position: center; }
+
+
+      h1 {text-align: left ;font-style: italic;font-size: 47px; padding: 1px 2px ; background-color: 0; position: sticky;}
+      nav {text-align: justify; text-decoration: black; list-style: disk; text-align-last: right; position:absolute; top:0px ; right:0px ;float: right;}
+
+
+section1 { text-orientation: sideways-right;text-align: ;}
+
+
+
+
+
+
+
+
+
+
+      aside{ float: right; background-color:black;color:white;padding:20px; }
+
+      footer{ text-anchor: start ;background-color: black; height: 100px;padding-bottom: 4px; border-bottom: 4px white; margin-bottom: 11px;} 
